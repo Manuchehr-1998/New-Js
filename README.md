@@ -38,3 +38,11 @@
 ![N|Solid](./img/Screenshot_1.png)
 ![N|Solid](./img/Screenshot_2.png)
 ![N|Solid](./img/Screenshot_3.png)
+
+# Переменные и константы JavaScript
+
+![N|Solid](./img/cover-3.png)
+
+# ОБЪЕКТЫ И ПРИМИТИВЫ
+
+![N|Solid](./img/1_OTyPxLuMRs7xSyCV3A_leQ.png)
