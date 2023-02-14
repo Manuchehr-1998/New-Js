@@ -21,3 +21,9 @@
 # РОЛЬ JAVASCRIPT В ВЕБ-РАЗРАБОТКЕ
 
 [![N|Solid](./img/js%20new.jpg)
+
+> структурный презентационный поведенческий
+
+# КРАТКАЯ ИСТОРИЯ JAVASCRIPT
+
+[![N|Solid](./img/images.png)
