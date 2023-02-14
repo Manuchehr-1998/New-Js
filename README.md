@@ -17,3 +17,7 @@
 ##### 6 Server Applications Серверные приложения
 
 ##### 7 Web Servers Веб-серверы
+
+# РОЛЬ JAVASCRIPT В ВЕБ-РАЗРАБОТКЕ
+
+[![N|Solid](./img/js%20new.jpg)
