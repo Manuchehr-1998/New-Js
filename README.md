@@ -46,3 +46,14 @@
 # ОБЪЕКТЫ И ПРИМИТИВЫ
 
 ![N|Solid](./img/1_OTyPxLuMRs7xSyCV3A_leQ.png)
+
+# FUNCTIONS
+
+> function declaration
+> ![N|Solid](./img/declaration_.png)
+> function expression
+> ![N|Solid](./img/expresion.png)
+> function arrowFunction
+> function anonymous
+> function IIFE (){}
+> ![N|Solid](./img/IIFE.png)
