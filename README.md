@@ -26,4 +26,5 @@
 
 # КРАТКАЯ ИСТОРИЯ JAVASCRIPT
 
-[![N|Solid](./img/slide_34.jpg)
+> JavaScript был изобретен Бренданом Эйхом в 1995 году. Он был разработан для Netscape 2 и стал стандартом ECMA-262 в 1997 году. После того, как Netscape передал JavaScript ECMA, фонд Mozilla продолжил разработку JavaScript для браузера Firefox. Последняя версия Mozilla была 1.8.
+> [![N|Solid](./img/slide_34.jpg)
