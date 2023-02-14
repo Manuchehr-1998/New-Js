@@ -26,4 +26,4 @@
 
 # КРАТКАЯ ИСТОРИЯ JAVASCRIPT
 
-[![N|Solid](./img/images.png)
+[![N|Solid](./img/slide_34.jpg)
